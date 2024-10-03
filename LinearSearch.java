@@ -1,8 +1,6 @@
 //----------------------------------------------------------------------------------------------
 // Maram Alqahtani
 // s444004008
-// Maram Alqahtani
-// s444004008
 
 // Java code for linearly search x in arr[]. If x
 
