@@ -1,7 +1,7 @@
 //----------------------------------------------------------------------------------------------
 // Maram Alqahtani
 // s444004008
-
+// Quize lab
 // Java code for linearly search x in arr[]. If x
 
 // is present then return its location, otherwise
